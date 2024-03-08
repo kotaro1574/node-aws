@@ -1,0 +1,16 @@
+{
+  "name": "aws",
+  "version": "1.0.0",
+  "description": "AWS SDK for JavaScript v3",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "database"
+  ],
+  "author": "ktraw1574",
+  "license": "ISC"
+}
